@@ -3,7 +3,7 @@
 
 **FetalBrain** is an AI-driven web-based platform designed for screening abnormalities in fetal brain ultrasound images. The system utilizes deep learning models to assist medical professionals in early diagnosis and treatment planning.
 
-![Overview of FetalBrain System](docs/Overview.png)
+![Overview of FetalBrain System](assets/FetalBrain_Web.png)
 
 ## Table of Contents
 
@@ -36,7 +36,7 @@ FetalBrain applies **artificial intelligence** to analyze fetal brain ultrasound
 FetalBrain received the **Silver Award** at the **International Students Research Fair (ISRF) 2024**, hosted by the Science Association of Indonesia (SAID).  
 
 ### **Silver Award - ISRF 2024**  
-![Silver Award](docs/silver_award.png)
+![Silver Award](Fetal_Award.jpg)
 
 ## License  
 
